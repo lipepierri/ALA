@@ -1,0 +1,36 @@
+﻿x	Bike	Magikruiser 	I 	43 	24 	45 	45 	32 	67 	43 	299
+Locked 	Kart 	Tiny Titan 	O 	46 	35 	43 	43 	29 	64 	40 	300
+x	Bike 	Bit Bike 	O 	25 	18 	59 	67 	40 	56 	62 	327
+x	Kart 	Booster Seat 	O 	27 	27 	56 	64 	37 	54 	59 	324
+Locked 	Bike 	Quacker 	I 	32 	17 	67 	60 	62 	48 	57 	343
+Locked 	Kart 	Cheep Charger 	O 	34 	24 	64 	56 	59 	45 	54 	336
+x	Bike 	Std Bike S 	O 	39 	21 	51 	51 	54 	43 	48 	307
+x	Kart 	Std Kart S 	O 	41 	29 	48 	48 	51 	40 	45 	302
+Locked 	Bike 	Jet Bubble 	I 	48 	27 	40 	40 	45 	35 	37 	272
+x	Bike 	Bullet Bike 	I 	53 	24 	32 	35 	67 	29 	67 	307
+x	Kart 	Mini Beast 	O 	55 	32 	29 	32 	64 	27 	64 	303
+Locked 	Kart 	Blue Falcon 	O 	60 	29 	35 	29 	43 	24 	29 	249
+Locked 	Bike 	Dolphin Dasher 	I 	48 	43 	37 	40 	24 	56 	37 	285
+x	Bike 	Mach Bike 	I 	55 	37 	24 	32 	62 	27 	62 	299
+Locked 	Bike 	Sneakster 	I 	62 	40 	29 	27 	40 	24 	27 	249
+x	Bike 	Std Bike M 	O 	43 	37 	43 	45 	48 	37 	43 	296
+x	Bike 	Sugarscoot 	O 	32 	32 	54 	62 	35 	51 	56 	322
+Locked 	Bike 	Zip Zip 	O 	41 	35 	45 	51 	29 	62 	45 	308
+x	Kart 	C. Dragster 	O 	37 	43 	59 	54 	54 	40 	51 	338
+Locked 	Kart 	Daytripper 	O 	34 	45 	51 	59 	32 	48 	54 	323
+Locked 	Kart 	Sprinter 	O 	64 	48 	27 	24 	37 	21 	24 	245
+x	Kart 	Std Kart M 	O 	46 	45 	40 	43 	45 	35 	40 	294
+Locked 	Kart 	Super Blooper 	O 	50 	40 	35 	37 	21 	54 	35 	272
+x	Kart 	Wild Wing 	O 	57 	51 	21 	29 	59 	24 	59 	300
+x	Bike 	Flame Runner 	I 	60 	54 	18 	24 	51 	21 	51 	279
+Locked 	Bike 	Phantom 	O 	43 	51 	43 	48 	17 	56 	40 	298
+Locked 	Bike 	Shooting Star 	O 	50 	48 	29 	32 	59 	27 	59 	304
+Locked 	Bike 	Spear 		I 	67 	56 	24 	18 	29 	18 	18 	230
+x	Bike 	Std Bike L 	O 	46 	54 	40 	43 	43 	37 	37 	300
+x	Bike 	Wario Bike 	O 	37 	59 	51 	56 	21 	45 	48 	317
+x	Kart 	Flame Flyer 	O 	62 	59 	16 	21 	48 	18 	48 	272
+Locked 	Kart 	Honey Coupe 	O 	53 	62 	27 	29 	56 	24 	56 	307
+Locked 	Kart 	Jetsetter 	O 	69 	56 	21 	17 	27 	16 	16 	222
+x	Kart 	Offroader 	O 	39 	64 	48 	54 	18 	43 	45 	311
+Locked 	Kart 	P. Prowler 	O 	55 	67 	29 	35 	35 	29 	27 	277
+x	Kart 	Std Kart L 	O 	48 	59 	37 	40 	40 	35 	35 	294
